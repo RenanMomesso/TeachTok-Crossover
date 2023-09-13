@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/SF_PRO_ROUNDED.ttf",
+      "sha1": "f2060ab5a5d6140c103bf47616f882ae62539cf2"
+    },
+    {
+      "path": "assets/fonts/SF_PRO_ROUNDED_TWO.otf",
+      "sha1": "ab2491a7db1d0a1792e50aefd4eea4bc46215742"
+    }
+  ]
+}
