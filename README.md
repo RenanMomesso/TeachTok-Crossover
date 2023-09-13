@@ -81,4 +81,3 @@ Learn more about React Native:
 
 # TeachTok-Crossover
 
-I hope this refined version meets your needs! If you have any further requirements or clarifications, let me know.
